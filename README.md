@@ -1,4 +1,1 @@
-Using the Titanic Dataset and filtering it to show wanted data
-
-Packages Used: 
-Pandas
+Using the Keras tuner to fine tune the model using the train test split
